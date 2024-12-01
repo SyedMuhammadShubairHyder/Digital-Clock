@@ -24,7 +24,7 @@ This project proposes the development of a Digital Clock using x86 Assembly Lang
 ## Contributors
 
 
-- [Shubair Hyder](https://github.com/shubairHyder)
+- [Shubair Hyder](https://github.com/SyedMuhammadShubairHyder)
 - Shah Anas Khan
 - Muhammad Zohaib
   

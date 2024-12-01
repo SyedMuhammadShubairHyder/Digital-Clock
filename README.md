@@ -1,6 +1,6 @@
 # Digital Clock using x86 Assembly Language
 ## Description
-This project proposes the development of a Digital Clock using x86 Assembly Language, which will display the current time and provide additional functionalities such as a stopwatch, timer. The project aims to enhance understanding of low-level programming and hardware interaction.
+This project proposes the development of a Digital Clock using x86 Assembly Language, which will display the current time and provide additional functionalities such as a stopwatch and timer. The project aims to enhance understanding of low-level programming and hardware interaction.
                     
 ## Features
 -	Current Time Display: Real-time display of the current system time.
@@ -30,5 +30,4 @@ This project proposes the development of a Digital Clock using x86 Assembly Lang
   
 Feel free to contribute or give suggestions.
 
-Enjoy the game and happy puzzling!
 
